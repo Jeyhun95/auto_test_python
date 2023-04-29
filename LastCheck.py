@@ -1,0 +1,2 @@
+newVar = "MyName"
+print(newVar)
